@@ -16,7 +16,8 @@ body{
     text-align: center;
     border: .1em dotted black;
     box-sizing: border-box;
-    background-color: #a8da63;
+    background-color: #003C43;
+    color:white
    
 }
 .disp
@@ -27,7 +28,7 @@ body{
 }
 .btn
 {
-    background: linear-gradient(270deg, rgb(82, 78, 78), rgb(28, 27, 27), rgb(0, 0, 0));
+    background: #131a21;
     color: white;
     border-radius: .3em;
     padding:.3em;

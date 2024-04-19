@@ -10,10 +10,11 @@ body {
 }
 
 .nav {
-    padding:0 2em;
-    position: sticky;
+    padding:.5em 2em;
+    /* position: sticky; */
     top: 0;
-    background: linear-gradient(to right, rgb(127, 167, 79), rgb(88, 126, 42), rgb(67, 97, 30));
+    background: linear-gradient(to right, #003C43, #1f2a35);
+    /* background-color:#003C43; */
     color: white;
 }
 .nav a{

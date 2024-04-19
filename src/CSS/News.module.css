@@ -1,0 +1,35 @@
+html{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    padding: 0%;
+}
+
+.news
+{
+    max-width: 250px;
+    margin: 1em auto;
+    padding: .5em;
+    text-align: center;
+    border: .1em dotted black;
+    box-sizing: border-box;
+    background-color: #a8da63;
+   
+}
+.disp
+{
+    width: 100%;
+    max-height: 150px;
+    object-fit: contain;
+}
+.btn
+{
+    background: linear-gradient(270deg, rgb(82, 78, 78), rgb(28, 27, 27), rgb(0, 0, 0));
+    color: white;
+    border-radius: .3em;
+    padding:.3em;
+    text-decoration: none;
+}

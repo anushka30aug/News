@@ -1,0 +1,27 @@
+.img {
+    max-width: 50px;
+    margin: 3em auto;
+  }
+  
+  img {
+    width: 100%;
+  }
+  
+  button {
+    padding: .3em;
+    font-size: large;
+    background: linear-gradient(270deg, rgb(82, 78, 78), rgb(28, 27, 27), rgb(0, 0, 0));
+    color: white;
+    border-radius: .5em;
+  }
+  
+  button:disabled {
+    background: grey;
+    color: rgb(53, 51, 51);
+  }
+  
+  .btn {
+    display: flex;
+    justify-content: space-between;
+    padding: 2em;
+  }
